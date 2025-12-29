@@ -1,0 +1,218 @@
+{
+  "author": {
+    "name": "김학주 사진작가",
+    "signature": "단어는 제멋대로지만, 결국 문장은 완성된다. 나처럼.",
+    "profileImage": "작가.png",
+    "bio": "삶이 던져준 질문들 사이에서 헤매다 보면, 어느 순간 그것들이 문장이 되어 있다. 그래서 글쓰기는 나에게 탐험이다.",
+    "philosophy": "빈 페이지는 나를 무섭게 하지만, 마감은 더 무섭기 때문에 결국 앉는다.",
+    "journey": "오래 헤맨 문장들이 어느 순간 제자리로 돌아왔다. 여정은 늘 그렇다.",
+    "awards": [
+      "2024년 문학상 신인상 수상",
+      "2025년 문학상 최우수상 수상",
+      "2026년 노벨문학상 수상"
+    ],
+    "email": "hakzu@naver.com",
+    "social": {
+      "instagram": "https://instagram.com/author",
+      "facebook": "https://facebook.com/author",
+      "twitter": "https://twitter.com/author"
+    }
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "첫 번째 책",
+      "subtitle": "드디어",
+      "coverImage": "book1.jpeg",
+      "publishDate": "2023년 1월",
+      "publisher": "폴리텍",
+      "isbn": "978-00-0000-000-0",
+      "synopsis": "드론은 날고 나는 뛰고, 결국 둘 다 지쳐 쓰러지는 초보 비행기록.",
+      "whyWritten": "이렇게까지 못할 줄은 몰랐는데, 이왕 망한 김에 공유라도 하자 싶었다.",
+      "readerBenefit": "실패의 순간들을 유쾌하게 다루는 법.",
+      "quote": "드론은 가볍지만, 배우는 과정은 결코 가볍지 않다.",
+      "tableOfContents": [
+        "1장: 비행 전 설렘과 후회",
+        "2장: 조종 미숙의 교향곡",
+        "3장: 나무와 벽의 무자비한 환영",
+        "4장: 배터리보다 빨리 떨어지는 멘탈",
+        "5장: 그래도 계속 나는 이유"
+      ],
+      "purchaseLinks": {
+        "yes24": "https://www.yes24.com/Product/Goods/00000000",
+        "kyobobook": "https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=0000000000000",
+        "aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=000000000"
+      }
+    },
+    {
+      "id": 2,
+      "title": "두 번째 책",
+      "subtitle": "또?",
+      "coverImage": "book2.jpeg",
+      "publishDate": "2023년 6월",
+      "publisher": "폴리텍",
+      "isbn": "978-00-0000-000-1",
+      "synopsis": "드론 수리 비용을 피하기 위해 공부를 시작했다가 전문가가 되어버리는 이야기.",
+      "whyWritten": "아끼려고 했는데, 결국 더 많이 쓰게 된 과정이 너무 웃겨서.",
+      "readerBenefit": "수리비 절감과 자기 계발의 의외의 상관관계.",
+      "quote": "돈을 아끼려다 지식을 얻었다.",
+      "tableOfContents": [
+        "1장: 수리비 청구서의 충격",
+        "2장: 드론보다 내가 더 업그레이드",
+        "3장: 지식이 남고 돈은 사라진다"
+      ],
+      "purchaseLinks": {
+        "yes24": "https://www.yes24.com/Product/Goods/00000000",
+        "kyobobook": "https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=0000000000000",
+        "aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=000000000"
+      }
+    },
+    {
+      "id": 3,
+      "title": "세 번째 책",
+      "subtitle": "여전히",
+      "coverImage": "book3.jpeg",
+      "publishDate": "2023년 12월",
+      "publisher": "폴리텍",
+      "isbn": "978-00-0000-000-2",
+      "synopsis": " 드론 첫 비행에서 나는 하늘의 지배자가 아니라 ‘충돌 전문가’라는 걸 깨닫는다.",
+      "whyWritten": "나의 굴욕적 추락 기록이 누군가에게 웃음과 위로가 되길 바랐다.",
+      "readerBenefit": " ‘망해도 괜찮다’는 초보자의 실전 멘탈 유지법.",
+      "quote": "드론은 떴지만, 내 자존감은 추락했다."
+      ,
+      "tableOfContents": [
+        "1장: 첫 비행, 첫 충돌",
+        "2장: 그래도 계속 띄우는 인간의 이유",
+        "3장:드론보다 내가 더 흔들리는 시간",
+        "4장: 사고는 나지만 실력은 오른다"
+      ],
+      "purchaseLinks": {
+        "yes24": "https://www.yes24.com/Product/Goods/00000000",
+        "kyobobook": "https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=0000000000000",
+        "aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=000000000"
+      }
+    },
+    {
+      "id": 4,
+      "title": "네 번째 책",
+      "subtitle": "역시나",
+      "coverImage": "book4.jpeg",
+      "publishDate": "2024년 9월",
+      "publisher": "폴리텍",
+      "isbn": "978-00-0000-000-3",
+      "synopsis": "드론은 나를 따라오지 않는데, 인생의 문제들은 왜 이렇게 잘 따라오는가?",
+      "whyWritten": "드론을 배우며 인생이 더 어렵다는 사실을 깨달았기 때문.",
+      "readerBenefit": "삶과 비행 모두 적당히 ‘포기하는 법’.",
+      "quote": "드론보다 날고 싶은 건 내 자존감이었다.",
+      "tableOfContents": [
+        "1장: 조종법보다 어려운 멘탈 관리",
+        "2장: 바람 탓하기의 기술"
+      ],
+      "purchaseLinks": {
+        "yes24": "https://www.yes24.com/Product/Goods/00000000",
+        "kyobobook": "https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=0000000000000",
+        "aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=000000000"
+      }
+    },
+    {
+      "id": 5,
+      "title": "다섯 번째 책",
+      "subtitle": "그렇군",
+      "coverImage": "book5.jpeg",
+      "publishDate": "2025년 1월",
+      "publisher": "폴리텍",
+      "isbn": "978-00-0000-000-4",
+      "synopsis": "드론과의 전쟁 끝에 깨달은 건 ‘적은 기계가 아니라 나의 착각’이라는 사실.",
+      "whyWritten": " ‘나는 잘할 거야’라는 환상을 무너뜨린 사건들을 기록하기 위해.",
+      "readerBenefit": "비행 실력보다 중요한 자기 객관화.",
+      "quote": "영상은 10초지만, 고난은 2시간이었다.",
+      "tableOfContents": [
+        "1장: 근자감의 탄생",
+        "2장: 드론의 반격",
+        "3장: 현실과의 충돌",
+        "4장: 인정은 성장의 시작",
+        "5장: 새롭게 나는 마음",
+        "6장: 들키고 싶지 않은 삽질들"
+      ],
+      "purchaseLinks": {
+        "yes24": "https://www.yes24.com/Product/Goods/00000000",
+        "kyobobook": "https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=0000000000000",
+        "aladin": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=000000000"
+      }
+    }
+  ],
+  "workInProgress": {
+    "title": "집필 중인 책",
+    "subtitle": "혹시나",
+    "description": "드론을 처음 만났을 때, 나는 미래 기술의 주인이 될 줄 알았다. 하지만 현실은 ‘충돌 전문가’였다. 이 굴욕적이고 웃픈 여정을 그냥 흘려보내기엔 아까워서, 나처럼 시행착오를 겪는 초보들에게 위로와 웃음을 주고 싶어 책을 쓰기 시작했다.",
+    "expectedDate": "2026년 하반기 예정"
+  },
+  "writings": [
+    {
+      "id": 1,
+      "title": "창작 이야기: 첫 번째 글",
+      "category": "창작 이야기",
+      "date": "2024년 3월 15일",
+      "excerpt": "처음 드론을 띄워 본 날, 나는 도시를 구하는 영웅이 되는 상상을 했다. 그런데 정작 구해 준 건 이웃집 지붕에 얹힌 내 드론이었다. 그때 깨달았다. 이건 혼자만 알기엔 너무 재미있는 이야기라는 걸. 그래서 기록하기 시작한 것이 책이 되었다.",
+      "content": "드론 첫 비행에서 나는 하늘의 지배자가 아니라 ‘충돌 전문가’라는 걸 깨닫는다."
+    },
+    {
+      "id": 2,
+      "title": "일상: 두 번째 글",
+      "category": "일상",
+      "date": "2024년 3월 10일",
+      "excerpt": "드론을 배우며 느낀 건 기술보다 멘탈이 중요하다는 사실이었다. 나무 충돌, 벽 충돌, 자존심 충돌까지 겪다 보니 자연스레 ‘충돌 철학’이 생겼다. 이 기묘한 깨달음을 누군가는 재미있게 읽어줄 것 같아 글로 남겼다.",
+      "content": "드론은 날고 나는 뛰고, 결국 둘 다 지쳐 쓰러지는 초보 비행기록."
+    },
+    {
+      "id": 3,
+      "title": "추천 글: 세 번째 글",
+      "category": "추천 글",
+      "date": "2024년 3월 5일",
+      "excerpt": "사람들이 드론 영상을 보면 멋지다며 감탄하지만, 그 뒤에 어떤 혈투가 있는지는 잘 모른다. 나는 그 ‘숨겨진 전쟁’을 세상에 알리고 싶었다.",
+      "content": "제 별점은요~ 별 5개~"
+    }
+  ],
+  "media": [
+    {
+      "id": 1,
+      "type": "인터뷰",
+      "title": "천재 작가와의 만남",
+      "source": "폴리TV",
+      "date": "2024년 2월",
+      "link": "https://example.com/interview1",
+      "thumbnail": "media1.jpeg"
+    },
+    {
+      "id": 2,
+      "type": "기사",
+      "title": "혜성처럼 나타난 중고신인",
+      "source": "폴리뉴스",
+      "date": "2024년 1월",
+      "link": "https://example.com/article1",
+      "thumbnail": "media2.jpeg"
+    },
+    {
+      "id": 3,
+      "type": "방송",
+      "title": "흑백 작가",
+      "source": "넷플릭스",
+      "date": "2026년 1월",
+      "link": "https://example.com/broadcast1",
+      "thumbnail": "media3.jpeg"
+    },
+    {
+      "id": 4,
+      "type": "강연",
+      "title": "소년이여 야망을 가져라!",
+      "source": "여성가족부",
+      "date": "2025년 11월",
+      "link": "https://example.com/lecture1",
+      "thumbnail": "media4.jpeg"
+    }
+  ],
+  "pressRelease": {
+    "text": "드론을 띄우기 전에 먼저 얼굴부터 들이미는 초보 시절을 거쳐, 추락·충돌·멘탈 붕괴까지 온몸으로 겪어낸 경험을 바탕으로 드론 책 5권을 집필한 작가다. 드론보다 내가 더 고장 나던 시절을 유쾌하게 기록하며, 실패를 웃음으로 바꾸는 글쓰기에 애정을 갖고 있다. 하늘을 나는 기술보다, 떨어지고 다시 일어나는 과정을 더 사랑하며, 초보자가 겪는 모든 ‘현실적 재난’을 누구보다 이해하는 안내자이자 동료다"
+  }
+}
+
